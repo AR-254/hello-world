@@ -1,1 +1,2 @@
+Using the dataset shopping_behavior_updated.csv, I will use a clustering approach to analyze customer shopping behavior. There is no target variable since the problem is clustering and the goal is to group the customers into categories depending on their behavior. The model will discover a pattern to divide the costumers into clusters using some features such as purchase amount, frequency of purchases, previous purchases, age, and review rating.
 
